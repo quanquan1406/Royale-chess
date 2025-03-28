@@ -1,5 +1,5 @@
 # 🎭 Royale Chess - Turn-based Strategy Game  
-
+** Trò chơi đang trong quá trình phát triển **
 ## 🏰 Giới Thiệu  
 **Royale Chess** là một trò chơi chiến thuật theo lượt dành cho hai người chơi, diễn ra trên **bàn cờ 9x9**.  
 Mỗi người chơi điều khiển một đội quân gồm **ba tháp phụ** (Rook, Bishop, Pawn) và **một tháp chính**.  
